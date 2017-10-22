@@ -1,4 +1,4 @@
 # Finding-Donors
 
 
-This is a project surrounding unsupervised learning
+This is a project surrounding supervised learning
